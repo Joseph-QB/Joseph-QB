@@ -33,7 +33,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JosuK22.JosuK22&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Joseph-QB.Joseph-QB&"  />
 </div>
 
 ###
@@ -83,10 +83,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosuK22&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&border_radius=20&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JosuK22&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&border_radius=20&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=JosuK22&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=20&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=JosuK22&theme=dark_lover&column=-1&row=1&margin-w=10&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Joseph-QB&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&border_radius=20&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Joseph-QB&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&border_radius=20&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Joseph-QB&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=20&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Joseph-QB&theme=dark_lover&column=-1&row=1&margin-w=10&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
